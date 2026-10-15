@@ -6,8 +6,8 @@ h2{
   font-family: Neto Serif;
   padding: 25px 50px;
   font-size: 200%;
-  border-bottom: 2px solid black
-  text-decoration: underline
+  border-bottom: 2px solid black;
+  text-decoration: underline;
   border-radius: 5px;
   margin: 20px auto;
   display: block;
@@ -17,6 +17,7 @@ a {
     display: block;
     color: white;
     background: black;
+    padding: 12px 10px;
     padding: 12px 10px;
     font-weight: bold;
     text-align: center;
