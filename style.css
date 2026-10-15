@@ -20,6 +20,11 @@ a {
     padding: 12px 10px;
     font-weight: bold;
     text-align: center;
+    background-color: black;
+}
+a:hover {
+    box-shadow: 0 0 30px rgba( 0, 0, 255, 15);;
+    color: white;
     
 }
 
@@ -32,16 +37,24 @@ img {
     border-radius: 12px;
     margin: 35px auto;
     display: block;
-    box-shadow: 0 0 30px rgba(0, 0, 255, 15);
+    box-shadow: 0 0 30px rgba( 0, 0, 255, 15);
 
 }
 body{
     background-color: black
+    
    
 }
+
 p{
     color: white
 }
 p{
     text-align: center;
 }
+
+body { background-color: black;
+    background-image: url("https://images.unsplash.com/photo-1492144534655-ae79c964c9d7");
+    
+}
+
